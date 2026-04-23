@@ -1,3 +1,0 @@
-MIT-ADT=MIT-Arts Design And Technology.
-Yajat kapoot is going to Farm.
-Again a new line.
